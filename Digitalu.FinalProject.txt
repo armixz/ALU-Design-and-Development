@@ -1,4 +1,4 @@
-[Running] Digitalu.FinalProject.v
+[Running] Digitalu.FinalProject.v 
 VCD info: dumpfile dump.vcd opened for output.
 +=+
 |C|========+================================+=========================================+=============+=========================================+=====+
