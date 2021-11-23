@@ -4,9 +4,9 @@
 # 1.	List of Parts:
 
 - Inputs  
- - Clock	1 bit, the clock, feeds into the clock on the register Accumulator  
- - Input	32-bits, binary integer for input  
- - Opcode	4-bits, binary code to indicate the operation
+  - Clock	1 bit, the clock, feeds into the clock on the register Accumulator  
+  - Input	32-bits, binary integer for input  
+  - Opcode	4-bits, binary code to indicate the operation
 
 Outputs  
 Error	1 bit, true if an error state has occurred  
