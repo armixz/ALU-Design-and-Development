@@ -1,6 +1,12 @@
 # 32bit-ALU
 32 bits ALU include 16 commands to run/Verilog Code (.v) + Digital Circuit (.circ) 
 
+---
+
+![alt text](Output2.png)
+
+---
+
 # 1.	List of Parts:
 
 - Inputs  
