@@ -1,4 +1,4 @@
-# 32bit-ALU
+# 32bit-ALU (Arithmetic logic unit)
 32 bits ALU include 16 commands to run/Verilog Code (.v) + Digital Circuit (.circ) 
 
 ---
